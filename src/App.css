@@ -1,0 +1,12 @@
+.form-group {
+  padding: 10px;
+}
+.SIP,
+.years {
+  display: inline-block;
+  width: 50%;
+}
+.rates {
+  display: inline-block;
+  width: 33.33%;
+}
